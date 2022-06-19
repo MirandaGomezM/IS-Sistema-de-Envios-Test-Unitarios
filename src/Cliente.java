@@ -1,5 +1,5 @@
 
 public class Cliente {
-	public String nombre = "Miranda Gomez";
+	public String nombre = "Lucas Navajas";
 	public Integer dni = 4354721;
 }
