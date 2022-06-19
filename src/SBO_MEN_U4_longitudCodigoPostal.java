@@ -8,7 +8,7 @@ class SBO_MEN_U4_longitudCodigoPostal {
 	void validarLongitudCodigoPostal() {
 		Integer longitud = Domicilio.codigoPostal.length();
 		
-		assertEquals(longitud, 4);
+		assertEquals(longitud, 5);
 	}
 
 }
